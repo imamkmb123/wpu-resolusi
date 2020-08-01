@@ -1,0 +1,7 @@
+rencana kon WPU
+
+-belajar python
+*numpy
+*pandas
+*matplotlip
+-belajar sql
